@@ -1,0 +1,2 @@
+# zphisher.sh
+anonymous
